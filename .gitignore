@@ -1,2 +1,4 @@
 data/sites/*
 data/sites
+outputs/*
+.ipynb_checkpoints
